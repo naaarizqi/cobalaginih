@@ -25,7 +25,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://raw.githubusercontent.com/afidah-ser/Afidatul-Masbakhah18610055/master/upin%20ipin.jpg);
+  background-image: url(https://raw.githubusercontent.com/naaarizqi/cobalaginih/master/Untitled%20design.png);
   background-size: cover;
   color: black;
   text-align: center;
@@ -54,16 +54,16 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #CD853F;
 }
 
 .facebook {
-  background-color: #3b5998;
+  background-color: #CD853F;
   margin-right: 10px;
 }
 
 .twitter {
-  background-color: #55acee;
+  background-color: #CD853F;
 }
 
 .btn {
@@ -86,7 +86,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgb(244, 164, 95);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -197,7 +197,7 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #F4A460;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
