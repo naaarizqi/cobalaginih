@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color: lightblue;
+  background-color: #A0522D;
   font-family: "Lucida Grande";
 }
 
@@ -86,7 +86,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgb(244, 164, 95);
+  background-color: rgb(160, 82, 45);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -109,7 +109,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: lightblue;
+  color: #FFFFFF;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -199,7 +199,7 @@ header {
   padding: 15px 40px;
   background-color: #F4A460;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #F5DEB3;
 }
 
 .message:active {
@@ -213,7 +213,7 @@ footer img {
 }
 
 footer p {
-  color: #b3aeb5;
+  color: #CD853F;
   font-size: 15px;
 }
 
